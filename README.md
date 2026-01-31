@@ -11,8 +11,9 @@
 
 ## Current Projects
 
-- 🦞 **[Draft](https://github.com/aryanpatel99/blog-website)** - a blogging website with ai features
-- 🌟 **[Trendi](https://github.com/aryanpatel99/TrendI)** - an ecomerce website
+- 📒 **[Draft](https://github.com/aryanpatel99/blog-website)** - a blogging website with ai features
+- 🛒 **[Trendi](https://github.com/aryanpatel99/TrendI)** - an ecomerce website
+- 🚀 **[Agent Force Landing Page](https://github.com/aryanpatel99/landing-page)** - a modern, high-performance landing page template
 
 ## What I'm Doing
 
