@@ -5,7 +5,7 @@
 <div align="center">
   
 [![Twitter](https://img.shields.io/badge/-@codexaryan-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/codexaryan)
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-patel-100aa7307/)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanpatel99/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aryanpatel99)
 
 </div>
