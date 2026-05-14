@@ -26,6 +26,7 @@
 
 ## Current Work
 
+- **[Lumin Ui](https://github.com/aryanpatel99/lumin-ui)** - A minimalist ui library &nbsp;<kbd>✦ building</kbd>
 - **[Draft](https://github.com/aryanpatel99/blog-website)** - A blogging website with ai features
 - **[Trendi](https://github.com/aryanpatel99/TrendI)** - An ecomerce website
 - **[Agent Force Landing Page](https://github.com/aryanpatel99/landing-page)** - A modern, high-performance landing page template
