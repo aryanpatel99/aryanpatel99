@@ -11,6 +11,11 @@
 
 [![X Follow](https://www.shieldcn.dev/x/follow/codexaryan.svg?variant=branded&size=sm)](https://x.com/codexaryan) [![Website](https://www.shieldcn.dev/badge/Website-portfolio--aryan--delta.vercel.app%3Fv%3D1-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm&color=1a1c1d)](https://portfolio-aryan-delta.vercel.app?v=1) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40aryanpatel99-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/aryanpatel99)
 
+<!--![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aryanpatel99.aryanpatel99) -->
+
+
+
+
 </div>
 
 <div align="center"> 
