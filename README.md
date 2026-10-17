@@ -1,67 +1,93 @@
 <h1 align="center">Aryan Patel</h1>
 
-<h3 align="center">Full-stack developer & aspiring AI engineer building clean, scalable systems.</h3>
+<p align="center">
+  <b>Full-stack engineer · AI systems · Open-source contributor</b>
+</p>
 
-<div align="center">
-  
-<!-- [![Twitter](https://img.shields.io/badge/-@codexaryan-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/codexaryan)
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanpatel99/)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aryanpatel99)
---> 
+<p align="center">
+  <a href="https://x.com/codexaryan"><img src="https://img.shields.io/badge/-@codexaryan-000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/aryanpatel99"><img src="https://img.shields.io/badge/-aryanpatel99-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portfolio-aryan-delta.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-[![X Follow](https://www.shieldcn.dev/x/follow/codexaryan.svg?variant=branded&size=sm)](https://x.com/codexaryan) [![Website](https://www.shieldcn.dev/badge/Website-portfolio--aryan--delta.vercel.app%3Fv%3D1-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm&color=1a1c1d)](https://portfolio-aryan-delta.vercel.app?v=1) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40aryanpatel99-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/aryanpatel99)
+---
 
-<!--![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aryanpatel99.aryanpatel99) -->
+CS + AI undergrad at Newton School of Technology building full-stack products and contributing to cloud-native open source. I like working on developer tools, AI pipelines, and UI systems — and shipping things that actually work.
 
+---
 
+## Open Source
 
+<p>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenTelemetry-F5A800?style=flat&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metal³-1a1a2e?style=flat&logo=cncf&logoColor=white" />
+</p>
 
-</div>
+Recent merged contributions:
 
-<div align="center"> 
-  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-  
-</div>
+- **open-telemetry/helm-charts** · [Fixed kube-stack resourceAttributes passthrough to collector](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2454)
+- **metal3-io/ironic-standalone-operator** · [Updated zizmor-action to v0.6.4](https://github.com/metal3-io/ironic-standalone-operator/pull/865)
+- **kubernetes/website** · [Improved guide for running Windows containers](https://github.com/kubernetes/website/pull/57585)
+
+---
+
+## Projects
+
+### Flagship
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/aryanpatel99/lumin-ui">✦ Lumin UI</a></h3>
+      <p>Animated, accessible component library for React — built in the spirit of shadcn/ui with motion baked in. Copy-paste components, dark mode, modern stack.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer_Motion-FF0080?style=flat-square&logo=framer&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/aryanpatel99/Retain-Ai">✦ Retain AI</a></h3>
+      <p>LangGraph pipeline that turns a customer CSV into a 30-60-90 retention playbook. Kaplan-Meier survival analysis, CoxPH risk model, and RAG-grounded strategy agents — streamed over SSE.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/aryanpatel99/open-router">✦ Orbyt</a></h3>
+      <p>Self-hosted LLM API gateway — one unified endpoint between your app and every major AI provider. Includes dashboard, docs site, and live API gateway.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/aryanpatel99/Solace">✦ Solace</a></h3>
+      <p>Minimalist new-tab Chrome extension for time awareness. Dot-matrix year calendar, ambient countdown, shortcut dock with drag-reorder, dark/light mode.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+### Currently working on
+
+- **[Karta](https://github.com/aryanpatel99/karta)** — Collaborative workspace for boards, orgs, and project planning &nbsp;<kbd>✦ building</kbd>
+
+---
 
 #### 🔷 my goto stack
-- typescript · javascript · next.js · react · node.js · express · mongoDB · docker · vercel · framer motion · gsap · python
+- typescript · javascript · python · next.js · react · node.js · express · prisma · postgresql · mongodb · docker · tailwind css · langchain · vercel
 
-> In constant build-learn-repeat mode - CS + AI student turning curiosity into code.
-
-## Current Work
-
-- **[Lumin Ui](https://github.com/aryanpatel99/lumin-ui)** - A minimalist ui library &nbsp;<kbd>✦ building</kbd>
-- **[Draft](https://github.com/aryanpatel99/blog-website)** - A blogging website with ai features
-- **[Trendi](https://github.com/aryanpatel99/TrendI)** - An ecomerce website
-- **[Agent Force Landing Page](https://github.com/aryanpatel99/landing-page)** - A modern, high-performance landing page template
-
-## What I'm Doing
-
-- **AI/ML systems:** Integrating large language models into production applications, understanding model capabilities, and building intelligent user experiences.
-- **Full-stack architecture:** Designing scalable, maintainable systems that span from user interfaces to backend infrastructure.
-- **Developer experience:** Creating tools and extensions that enhance productivity and streamline development workflows.
-
-
----
-<!-- <div align="center">
-
-# Hi, I'm Aryan Patel 👋
-
-**Dev stuff, some fun too 🎉**
-
-[![X Follow](https://www.shieldcn.dev/x/follow/codexaryan.svg?variant=branded&size=sm)](https://x.com/codexaryan) [![Website](https://www.shieldcn.dev/badge/Website-portfolio--aryan--delta.vercel.app%3Fv%3D1-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://portfolio-aryan-delta.vercel.app?v=1) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40aryanpatel99-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/aryanpatel99)
-
-
-</div>
-
-## 🛠️ Skills & Technologies
-
-![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm) ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) ![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=sm) ![Prettier](https://www.shieldcn.dev/badge/-Prettier-F7B93E.svg?logo=prettier&variant=branded&size=sm) ![Turborepo](https://www.shieldcn.dev/badge/-Turborepo-EF4444.svg?logo=turborepo&variant=branded&size=sm) ![TanStack Query](https://www.shieldcn.dev/badge/-TanStack_Query-FF4154.svg?logo=reactquery&variant=branded&size=sm) ![tRPC](https://www.shieldcn.dev/badge/-tRPC-398CCB.svg?logo=trpc&variant=branded&size=sm) ![Better Auth](https://www.shieldcn.dev/badge/-Better_Auth-000000.svg?logo=ri%3ARiShieldKeyholeFill&variant=branded&size=sm) ![Drizzle](https://www.shieldcn.dev/badge/-Drizzle-C5F74F.svg?logo=drizzle&variant=branded&size=sm)
-
----
-
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub> -->
