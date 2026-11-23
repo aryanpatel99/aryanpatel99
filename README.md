@@ -72,19 +72,37 @@
 
 ## Go-to Stack
 
+<sub><b>Languages &amp; Frontend</b></sub>
 <p>
-  <img src="https://skillicons.dev/icons?i=ts" width="44" alt="TypeScript" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=js" width="44" alt="JavaScript" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=py" width="44" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="44" alt="Next.js" title="Next.js" />
-  <img src="https://skillicons.dev/icons?i=react" width="44" alt="React" title="React" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="44" alt="Node.js" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" width="44" alt="Express" title="Express" />
-  <img src="https://skillicons.dev/icons?i=prisma" width="44" alt="Prisma" title="Prisma" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="44" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="44" alt="MongoDB" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=docker" width="44" alt="Docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="44" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="./assets/langchain.svg" width="44" alt="LangChain" title="LangChain" />
-  <img src="https://skillicons.dev/icons?i=vercel" width="44" alt="Vercel" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=py" width="40" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=go" width="40" alt="Go" title="Go" />
+  <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=vite" width="40" alt="Vite" title="Vite" />
+</p>
+
+<sub><b>Backend &amp; AI</b></sub>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express" title="Express" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="40" alt="Prisma" title="Prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" title="MongoDB" />
+  <img src="./assets/langchain.svg" width="40" alt="LangChain" title="LangChain" />
+  <img src="https://skillicons.dev/icons?i=sklearn" width="40" alt="scikit-learn" title="scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="PyTorch" title="PyTorch" />
+</p>
+
+<sub><b>Infra &amp; Tools</b></sub>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Vercel" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma" title="Figma" />
 </p>
