@@ -10,84 +10,82 @@
   <a href="https://portfolio-aryan-delta.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
----
-
-CS + AI undergrad at Newton School of Technology building full-stack products and contributing to cloud-native open source. I like working on developer tools, AI pipelines, and UI systems — and shipping things that actually work.
+<p align="center">
+  CS + AI undergrad at Newton School of Technology, building full-stack products and contributing to cloud-native open source.<br/>
+  I like developer tools, AI pipelines and UI systems — and shipping things that actually work.
+</p>
 
 ---
 
 ## Open Source
 
-<p>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenTelemetry-F5A800?style=flat&logo=opentelemetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metal³-1a1a2e?style=flat&logo=cncf&logoColor=white" />
-</p>
+#### Organizations I've contributed to
 
-Recent merged contributions:
+<table>
+  <tr>
+    <td align="center" width="110">
+      <a href="https://github.com/kubernetes"><img src="https://github.com/kubernetes.png?size=120" width="56" height="56" alt="Kubernetes" /></a><br/>
+      <sub><b>Kubernetes</b></sub>
+    </td>
+    <td align="center" width="110">
+      <a href="https://github.com/open-telemetry"><img src="https://github.com/open-telemetry.png?size=120" width="56" height="56" alt="OpenTelemetry" /></a><br/>
+      <sub><b>OpenTelemetry</b></sub>
+    </td>
+    <td align="center" width="110">
+      <a href="https://github.com/metal3-io"><img src="https://github.com/metal3-io.png?size=120" width="56" height="56" alt="Metal³" /></a><br/>
+      <sub><b>Metal³</b></sub>
+    </td>
+    <td align="center" width="110">
+      <a href="https://github.com/Apicurio"><img src="https://github.com/Apicurio.png?size=120" width="56" height="56" alt="Apicurio" /></a><br/>
+      <sub><b>Apicurio</b></sub>
+    </td>
+    <td align="center" width="110">
+      <a href="https://github.com/opennookorg"><img src="https://github.com/opennookorg.png?size=120" width="56" height="56" alt="opennook" /></a><br/>
+      <sub><b>opennook</b></sub>
+    </td>
+  </tr>
+</table>
 
-- **open-telemetry/helm-charts** · [Fixed kube-stack resourceAttributes passthrough to collector](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2454)
-- **metal3-io/ironic-standalone-operator** · [Updated zizmor-action to v0.6.4](https://github.com/metal3-io/ironic-standalone-operator/pull/865)
-- **kubernetes/website** · [Improved guide for running Windows containers](https://github.com/kubernetes/website/pull/57585)
+#### Recent merges
+
+| Repo | Pull request | Merged |
+| :--- | :--- | :--- |
+| <img src="https://github.com/Apicurio.png?size=40" width="16" /> **apicurio-registry** | [Redirect docs root to latest released version](https://github.com/Apicurio/apicurio-registry/pull/10681) | Nov ’26 |
+| <img src="https://github.com/metal3-io.png?size=40" width="16" /> **ip-address-manager** | [Set controller-runtime logger on all e2e Ginkgo nodes](https://github.com/metal3-io/ip-address-manager/pull/1691) | Nov ’26 |
+| <img src="https://github.com/open-telemetry.png?size=40" width="16" /> **helm-charts** | [Pass kube-stack resourceAttributes to the collector](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/2454) | Oct ’26 |
+| <img src="https://github.com/metal3-io.png?size=40" width="16" /> **ironic-standalone-operator** | [Update zizmor-action to v0.6.4 and fix findings](https://github.com/metal3-io/ironic-standalone-operator/pull/865) | Oct ’26 |
+| <img src="https://github.com/kubernetes.png?size=40" width="16" /> **website** | [Improve guide for running Windows containers](https://github.com/kubernetes/website/pull/57585) | Sep ’26 |
+| <img src="https://github.com/metal3-io.png?size=40" width="16" /> **baremetal-operator** | [Fix zizmor findings and bump zizmor-action](https://github.com/metal3-io/baremetal-operator/pull/3638) | Sep ’26 |
+
+<sub><a href="https://github.com/pulls?q=is%3Apr+author%3Aaryanpatel99+is%3Amerged">See all merged PRs →</a></sub>
 
 ---
 
 ## Projects
 
-### Flagship
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/aryanpatel99/lumin-ui">✦ Lumin UI</a></h3>
-      <p>Animated, accessible component library for React — built in the spirit of shadcn/ui with motion baked in. Copy-paste components, dark mode, modern stack.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer_Motion-FF0080?style=flat-square&logo=framer&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/aryanpatel99/Retain-Ai">✦ Retain AI</a></h3>
-      <p>LangGraph pipeline that turns a customer CSV into a 30-60-90 retention playbook. Kaplan-Meier survival analysis, CoxPH risk model, and RAG-grounded strategy agents — streamed over SSE.</p>
-      <p>
-        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/aryanpatel99/open-router">✦ Orbyt</a></h3>
-      <p>Self-hosted LLM API gateway — one unified endpoint between your app and every major AI provider. Includes dashboard, docs site, and live API gateway.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/aryanpatel99/Solace">✦ Solace</a></h3>
-      <p>Minimalist new-tab Chrome extension for time awareness. Dot-matrix year calendar, ambient countdown, shortcut dock with drag-reorder, dark/light mode.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-### Currently working on
-
-- **[Karta](https://github.com/aryanpatel99/karta)** — Collaborative workspace for boards, orgs, and project planning &nbsp;<kbd>✦ building</kbd>
+- **[Lumin UI](https://github.com/aryanpatel99/lumin-ui)** — Animated, accessible React component library with motion baked in.
+- **[Retain AI](https://github.com/aryanpatel99/Retain-Ai)** — LangGraph pipeline that turns a customer CSV into a 30-60-90 retention playbook.
+- **[Orbyt](https://github.com/aryanpatel99/open-router)** — Self-hosted LLM gateway: one endpoint for every major AI provider.
+- **[Solace](https://github.com/aryanpatel99/Solace)** — Minimal new-tab Chrome extension for time awareness.
+- **[Karta](https://github.com/aryanpatel99/karta)** — Collaborative workspace for boards, orgs and project planning. <kbd>building</kbd>
 
 ---
 
-#### 🔷 my goto stack
-- typescript · javascript · python · next.js · react · node.js · express · prisma · postgresql · mongodb · docker · tailwind css · langchain · vercel
+## Go-to Stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" width="44" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" width="44" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=py" width="44" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="44" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=react" width="44" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="44" alt="Node.js" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" width="44" alt="Express" title="Express" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="44" alt="Prisma" title="Prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="44" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="44" alt="MongoDB" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=docker" width="44" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="44" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="./assets/langchain.svg" width="44" alt="LangChain" title="LangChain" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="44" alt="Vercel" title="Vercel" />
+</p>
