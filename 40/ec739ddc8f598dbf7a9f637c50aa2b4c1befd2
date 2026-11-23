@@ -1,0 +1,21 @@
+README.md
+  s_92c5deabc15e1c::t_00e553e1709334 84,94
+assets/sep.svg
+  s_92c5deabc15e1c::t_9fb921f8b17155 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "40ec739ddc8f598dbf7a9f637c50aa2b4c1befd2",
+  "prompts": {},
+  "sessions": {
+    "s_92c5deabc15e1c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "00b7a333-a393-45c3-b161-75561f542a86",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Aryan Patel <aryanpatel6215@gmail.com>"
+    }
+  }
+}
