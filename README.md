@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/codexaryan"><img src="https://img.shields.io/badge/-@codexaryan-000?style=flat&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.linkedin.com/in/aryanpatel99"><img src="https://img.shields.io/badge/-aryanpatel99-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://portfolio-aryan-delta.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://x.com/codexaryan"><img src="https://img.shields.io/badge/@codexaryan-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/aryanpatel99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portfolio-aryan-delta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
