@@ -1,7 +1,7 @@
 <h1 align="center">Aryan Patel</h1>
 
 <p align="center">
-  <b>Full-stack engineer · AI systems · Open-source contributor</b>
+  <b>Full-stack &amp; AI Engineer</b>
 </p>
 
 <p align="center">
@@ -11,8 +11,18 @@
 </p>
 
 <p align="center">
-  I build full-stack products and contribute to cloud-native open source.
+  I build full-stack products and AI-powered systems — and contribute to open source along the way.
 </p>
+
+---
+
+## Projects
+
+- **[Lumin UI](https://github.com/aryanpatel99/lumin-ui)** — Animated, accessible React component library with motion baked in.
+- **[Retain AI](https://github.com/aryanpatel99/Retain-Ai)** — LangGraph pipeline that turns a customer CSV into a 30-60-90 retention playbook.
+- **[Orbyt](https://github.com/aryanpatel99/open-router)** — Self-hosted LLM gateway: one endpoint for every major AI provider.
+- **[Solace](https://github.com/aryanpatel99/Solace)** — Minimal new-tab Chrome extension for time awareness.
+- **[Karta](https://github.com/aryanpatel99/karta)** — Collaborative workspace for boards, orgs and project planning. <kbd>building</kbd>
 
 ---
 
@@ -57,16 +67,6 @@
 | <img src="https://github.com/metal3-io.png?size=40" width="16" /> **baremetal-operator** | [Fix zizmor findings and bump zizmor-action](https://github.com/metal3-io/baremetal-operator/pull/3638) | Sep ’26 |
 
 <sub><a href="https://github.com/pulls?q=is%3Apr+author%3Aaryanpatel99+is%3Amerged">See all merged PRs →</a></sub>
-
----
-
-## Projects
-
-- **[Lumin UI](https://github.com/aryanpatel99/lumin-ui)** — Animated, accessible React component library with motion baked in.
-- **[Retain AI](https://github.com/aryanpatel99/Retain-Ai)** — LangGraph pipeline that turns a customer CSV into a 30-60-90 retention playbook.
-- **[Orbyt](https://github.com/aryanpatel99/open-router)** — Self-hosted LLM gateway: one endpoint for every major AI provider.
-- **[Solace](https://github.com/aryanpatel99/Solace)** — Minimal new-tab Chrome extension for time awareness.
-- **[Karta](https://github.com/aryanpatel99/karta)** — Collaborative workspace for boards, orgs and project planning. <kbd>building</kbd>
 
 ---
 
