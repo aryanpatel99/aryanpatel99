@@ -11,8 +11,7 @@
 </p>
 
 <p align="center">
-  CS + AI undergrad at Newton School of Technology, building full-stack products and contributing to cloud-native open source.<br/>
-  I like developer tools, AI pipelines and UI systems — and shipping things that actually work.
+  I build full-stack products and contribute to cloud-native open source.
 </p>
 
 ---
