@@ -1,0 +1,19 @@
+README.md
+  s_92c5deabc15e1c::t_351e00ead63e49 8-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "df7955fac5ad33fddb56ddb51e14e82554de6ddf",
+  "prompts": {},
+  "sessions": {
+    "s_92c5deabc15e1c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "00b7a333-a393-45c3-b161-75561f542a86",
+        "model": "unknown"
+      },
+      "human_author": "Aryan Patel <aryanpatel6215@gmail.com>"
+    }
+  }
+}
