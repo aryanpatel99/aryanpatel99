@@ -81,6 +81,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs" width="30" alt="Next.js" title="Next.js" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="30" alt="Tailwind CSS" title="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=vite" width="30" alt="Vite" title="Vite" />
+  <img src="./assets/sep.svg" height="30" alt="" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="30" alt="Node.js" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" width="30" alt="Express" title="Express" />
   <img src="https://skillicons.dev/icons?i=prisma" width="30" alt="Prisma" title="Prisma" />
@@ -90,6 +91,7 @@
   <img src="./assets/langchain.svg" width="30" alt="LangChain" title="LangChain" />
   <img src="https://skillicons.dev/icons?i=sklearn" width="30" alt="scikit-learn" title="scikit-learn" />
   <img src="https://skillicons.dev/icons?i=pytorch" width="30" alt="PyTorch" title="PyTorch" />
+  <img src="./assets/sep.svg" height="30" alt="" />
   <img src="https://skillicons.dev/icons?i=docker" width="30" alt="Docker" title="Docker" />
   <img src="https://skillicons.dev/icons?i=aws" width="30" alt="AWS" title="AWS" />
   <img src="https://skillicons.dev/icons?i=vercel" width="30" alt="Vercel" title="Vercel" />
